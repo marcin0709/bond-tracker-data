@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "dataUpdatedOn": "2026-10-20",
+  "dataUpdatedOn": "2026-10-31",
   "attribution": "Źródła: Główny Urząd Statystyczny (stat.gov.pl, wskaźniki cen towarów i usług konsumpcyjnych), Narodowy Bank Polski (static.nbp.pl, stopa referencyjna), Dziennik Ustaw (api.sejm.gov.pl, dni wolne od pracy). Dane przetworzone: przepisane do formatu bonds.json, stopy jako ułamek; data publikacji przy każdym odczycie, data pobrania w polu retrievedOn.",
   "generatedBy": "tools/fetch_series.py i tools/fetch_rates.py; nie edytować ręcznie",
   "series": [
@@ -9052,7 +9052,7 @@
     }
   ],
   "referenceRates": {
-    "knownThrough": "2026-10-20",
+    "knownThrough": "2026-10-31",
     "history": [
       {
         "effectiveFrom": "2023-10-05",
